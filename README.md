@@ -1,8 +1,8 @@
 # OSSLab2025
 
-Name: Utkarsh Sharma
-Roll Number: 231B370
-Email: utkarshsharma@juetguna.in
+Name: Utkarsh Sharma  
+Roll Number: 231B370  
+Email: utkarshsharma@juetguna.in  
 
 <Solution code to part F>
 
@@ -10,9 +10,9 @@ Email: utkarshsharma@juetguna.in
 
 import java.util.Scanner;
 
-public class GreatestOfTwo {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+public class GreatestOfTwo {  
+    public static void main(String[] args) {  
+        Scanner scanner = new Scanner(System.in);  
 
         System.out.print("Enter the first number: ");
         int num1 = scanner.nextInt();
@@ -34,8 +34,8 @@ public class GreatestOfTwo {
 
 2. Sum of two number python :
 
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
+num1 = float(input("Enter the first number: "))  
+num2 = float(input("Enter the second number: "))  
 
 sum = num1 + num2
 
